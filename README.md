@@ -1,5 +1,7 @@
 # Hi there, I'm Aryan Hamedai 👋
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="240">
+
 I'm a Back-End developer based in Tehran, Iran and a computer engineering student. In my free time, I enjoy hiking and reading about new technologies.
 
 ## 🔧 Technologies & Tools
@@ -11,8 +13,10 @@ I'm a Back-End developer based in Tehran, Iran and a computer engineering studen
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-374151?style=flat-square&logo=gunicorn&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 
 ## 🌱 I'm currently learning
 
@@ -23,12 +27,6 @@ I'm a Back-End developer based in Tehran, Iran and a computer engineering studen
 - CI/CD
 - ...
 
-## 📫 How to reach me
-
-- Email: [aryn.hmd@gmail.com](mailto:aryn.hmd@gmail.com)
-- LinkedIn: [AryanHamedai](https://www.linkedin.com/in/AryanHamedai)
-- Telegram: [@tentoria](https://t.me/tentoria)
-
 ## 💬 Ask me about
 
 - Python
@@ -36,6 +34,12 @@ I'm a Back-End developer based in Tehran, Iran and a computer engineering studen
 - Back-End Development
 - Linux
 - RESTful APIs
+
+## 📫 How to reach me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryn.hmd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AryanHamedai)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tentoria)
 
 ## 📊 GitHub Stats
 
