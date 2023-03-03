@@ -1,6 +1,6 @@
 # Hi there, I'm Aryan Hamedai 👋
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="240">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="auto">
 
 I'm a Back-End developer based in Tehran, Iran and a computer engineering student. In my free time, I enjoy hiking and reading about new technologies.
 
