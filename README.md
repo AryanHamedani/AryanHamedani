@@ -1,4 +1,4 @@
-# Hi there, I'm Aryan Hamedai 👋
+# Hi there, I'm Aryan Hamedani 👋
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="auto">
 
