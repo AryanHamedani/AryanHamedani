@@ -52,6 +52,4 @@ I'm a Back-End developer based in Tehran, Iran and a computer engineering studen
 ## 📊 GitHub Stats
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanHamedani&show_icons=true&theme=radical)
-<img src="https://github-profile-trophy.vercel.app/?username=mehdi-mirzaie78&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="96px">
-
-![More Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanHamedani&theme=radical&include_all_commits=true&count_private=true&layout=compact)
+![Aryan's GitHub trophies](https://github-profile-trophy.vercel.app/?username=AryanHamedani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
