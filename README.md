@@ -3,7 +3,7 @@
 <!-- Place the GIF on the right without enclosing all text in HTML -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="GIF"/>
 
-I am a **Technical Manager** at [Dobare](https://dobare.ir) (through Idekavan) and a Computer Engineering student based in **Tehran, Iran**.
+I am a **Technical Manager** at [Dobare](https://dobare.me) (through Idekavan Group) and a Computer Engineering student based in **Tehran, Iran**.
 
 My passion lies in **Back-End Development**, with a focus on **Python**, **Django**, **Flask**, **FastAPI**, and containerization (**Docker**, **Kubernetes**). I enjoy designing robust **RESTful APIs**, and handling background tasks with **Celery** & message brokers like **Redis** or **RabbitMQ**.
 
