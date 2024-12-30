@@ -1,13 +1,12 @@
 # Hi there, I'm Aryan Hamedani 👋
 
-<!-- Place the GIF on the right without enclosing all text in HTML -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="GIF"/>
 
-I am a **Technical Manager** at [Dobare](https://dobare.me) (through Idekavan Group) and a Computer Engineering student based in **Tehran, Iran**.
+I am a **Back-End Engineer** at [Dobare](https://dobare.me) (through Idekavan Group) and a Computer Engineering student based in **Tehran, Iran**.
 
-My passion lies in **Back-End Development**, with a focus on **Python**, **Django**, **Flask**, **FastAPI**, and containerization (**Docker**, **Kubernetes**). I enjoy designing robust **RESTful APIs**, and handling background tasks with **Celery** & message brokers like **Redis** or **RabbitMQ**.
+My work involves building a **customer loyalty platform** with a robust **RESTful API** and seamless integration with **WordPress** plugins. I have hands-on experience with **microservices**, **event-driven architectures**, and background task processing with **Celery** and message brokers like **RabbitMQ** and **Redis**.
 
-I'm skilled in **relational** (PostgreSQL) and **non‐relational** (MongoDB) databases. Outside of coding, you might find me hiking or exploring the latest tech trends.
+I'm proficient in **Python**, **Django**, **Flask**, and **FastAPI**, and enjoy working with **Docker** and **Kubernetes** for containerization and orchestration. I’m comfortable with **PostgreSQL** and **MongoDB** (including NoSQL concepts), and I love exploring new technologies and building scalable solutions.
 
 ---
 
@@ -19,12 +18,16 @@ I'm skilled in **relational** (PostgreSQL) and **non‐relational** (MongoDB) da
 ![Django REST Framework](https://img.shields.io/badge/DRF-EE3B2F?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FACC15?style=for-the-badge)
 ![REST%20APIs](https://img.shields.io/badge/REST%20APIs-3B2E5A?style=for-the-badge)
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-808080?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CE3232?style=for-the-badge)
 
 ### **Messaging & Task Queues**
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
@@ -37,8 +40,9 @@ I'm skilled in **relational** (PostgreSQL) and **non‐relational** (MongoDB) da
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=swagger&logoColor=white)
 
-### **Additional Tech**
+### **Front-End & Additional Tech**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
